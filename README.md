@@ -7,7 +7,7 @@ Tutorial 2 <a href="https://www.youtube.com/watch?v=tiSd99NEhb4">Click Here</a> 
 
 <p align="center">
 ⭐⭐⭐ You can also give this repository a star to show more people and they can use this repository<br>
-<a href="https://github.com/Mid0aria/owofarmbot"><img src="https://hits.sh/github.com/Mid0aria/owofarmbot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6"/></a>
+<a href="https://github.com/samsepoil1211/OwoFarm-selfbot"><img src="https://hits.sh/github.com/Mid0aria/owofarmbot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6"/></a>
 <a href="https://github.com/Mid0aria/owofarmbot"><img src="https://img.shields.io/github/last-commit/mid0aria/owofarmbot" /></a>
 
 Do you want new feature? <a href ="https://github.com/Mid0aria/owofarmbot/issues/24">Click Me</a>
@@ -175,7 +175,7 @@ m)
 
 ```
 > YOU NEED LATEST NODEJS !
-> download zip file or run git clone https://github.com/Mid0aria/owofarmbot.git
+> download zip file or run git clone https://github.com/samsepoil1211/OwoFarm-selfbot
 > edit config.json
 ```
 
