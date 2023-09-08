@@ -186,8 +186,4 @@ m)
 ```bash
 > run run.bat
 ```
-
-## 🥰・Thanks for contribution
-VihaanReddyM <a href="https://github.com/VihaanReddyM">(Github)</a><br>
-Hiếu LoneLy <a href="https://www.youtube.com/watch?v=tiSd99NEhb4">(Youtube)</a>
-
+
