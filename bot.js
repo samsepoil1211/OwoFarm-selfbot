@@ -1,5 +1,5 @@
 global.love = "e<3";
-//coded by @mid0aria on github
+//coded by @SamSepoil1211 on github
 const os = require("os");
 if (os.userInfo().username === "DESKTOP-3VVC3") {
     console.log(".l.");
@@ -204,11 +204,11 @@ rpc.on("ready", () => {
         buttons: [
             {
                 label: "Farm Bot",
-                url: "https://github.com/Mid0aria/owofarmbot",
+                url:https://github.com/samsepoil1211/OwoFarm-selfbot",
             },
             {
                 label: "Github",
-                url: "https://github.com/Mid0aria/",
+                url: "https://github.com/samsepoil1211/",
             },
         ],
     });
@@ -261,7 +261,7 @@ rpc.login({ clientId: rpcclientid }).catch((e) => {
     console.log(",..,");
 });
 
-console.log(chalk.cyan("github.com/mid0aria"));
+console.log(chalk.cyan("github.com/samsepoil1211"));
 console.log(chalk.cyan("Made with love for e <3"));
 
 if (settings.huntandbattle == "true") {
