@@ -7,7 +7,7 @@ console.log("updating ...");
 
 request.get(
     {
-        url: "https://raw.githubusercontent.com/Mid0aria/owofarmbot/main/changes.json",
+        url: "https://github.com/samsepoil1211/OwoFarm-selfbot/main/changes.json",
     },
     function (err, res, body) {
         let bod = JSON.parse(body);
@@ -21,7 +21,7 @@ request.get(
                 }
             }
             const newupdater = https.get(
-                `https://raw.githubusercontent.com/Mid0aria/owofarmbot/main/${a}`,
+                `https://github.com/samsepoil1211/OwoFarm-selfbot/main/${a}`,
                 function (response) {
                     var updaterstream = fs.createWriteStream(
                         path.join(__dirname, `/${a}`)
